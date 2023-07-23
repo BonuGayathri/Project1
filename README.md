@@ -13,6 +13,7 @@ https://github.com/BonuGayathri/Project1/assets/138792341/2b72e518-9992-437b-aee
 ### Azure technologies used for Project
 
 -Static web apps
+
 -Health bot
 
 ## Features and Functionalities 😃
