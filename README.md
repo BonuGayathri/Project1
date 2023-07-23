@@ -1,6 +1,6 @@
  ✨ **Glory Luxe ** ✨
 
-This is a web based application developed for a Beauty and Spa named Glory Luxe.
+This is a web based application developed for Beauty and Spa named Glory Luxe related based website in india.
 
 ### This web based Beauty and Spa application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -9,6 +9,11 @@ This is a web based application developed for a Beauty and Spa named Glory Luxe.
 **Demo Video** -  
 
 https://github.com/BonuGayathri/Project1/assets/138792341/2b72e518-9992-437b-aeed-e1259870b71e
+
+**Azure technologies used for Project**
+
+-Static web apps
+-Health bot
 
 ## Features and Functionalities 😃
 
