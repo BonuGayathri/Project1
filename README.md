@@ -4,11 +4,11 @@ This is a web based application developed for a Beauty and Spa named Glory Luxe.
 
 ### This web based Beauty and Spa application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-
 **Project Link** - https://red-plant-00a249e00.3.azurestaticapps.net
 
-
 **Demo Video** -  
+
+https://github.com/BonuGayathri/Project1/assets/138792341/2b72e518-9992-437b-aeed-e1259870b71e
 
 ## Features and Functionalities 😃
 
