@@ -10,7 +10,7 @@ This is a web based application developed for Beauty and Spa named Glory Luxe re
 
 https://github.com/BonuGayathri/Project1/assets/138792341/2b72e518-9992-437b-aeed-e1259870b71e
 
-**Azure technologies used for Project**
+### Azure technologies used for Project
 
 -Static web apps
 -Health bot
