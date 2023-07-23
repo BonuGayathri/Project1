@@ -8,13 +8,17 @@ This is a web based application developed for Beauty and Spa named Glory Luxe re
 
 **Demo Video** -  
 
+
+Uploading Glory Luxe a Beauty & Spa Category Bootstrap Responsive Website Template _ Home __ Gayathri - Google Chrome 2023-07-23 14-45-24.mp4…
+
+
 https://github.com/BonuGayathri/Project1/assets/138792341/2b72e518-9992-437b-aeed-e1259870b71e
 
 ### Azure technologies used for Project
 
--Static web apps
+- Static web apps
 
--Health bot
+- Health bot
 
 ## Features and Functionalities 😃
 
