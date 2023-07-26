@@ -6,7 +6,7 @@ This is a web based application developed for Beauty and Spa named Glory Luxe re
 
 **Project Link** - https://red-plant-00a249e00.3.azurestaticapps.net
 
-**Demo Video** -  
+**Demo Video** -  https://www.veed.io/view/b673d3dd-c78c-4e05-a464-dbf5164f78fb?panel=share
 
 
 
